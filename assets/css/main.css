@@ -3033,7 +3033,7 @@ input, select, textarea {
 			}
 
 			#header .actions:after {
-				background: #ffffff;
+	
 				content: '';
 				height: 100vh;
 				left: 50%;
